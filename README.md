@@ -10,7 +10,7 @@ I utilized a dataset from Kaggle for training and testing my model. You can find
 
 ## Project Overview
 
-The objective of this project is to create a model that can accurately identify whether a given image contains a dog or a cat. Below are the steps I followed during the development of this project:
+This project aims to create a model that can accurately identify whether a given image contains a dog or a cat. Below are the steps I followed during the development of this project:
 
 1. **Environment Setup**:
    - Installed necessary libraries such as TensorFlow and Keras.
@@ -39,7 +39,7 @@ The objective of this project is to create a model that can accurately identify 
 
 This project was a great opportunity to dive into the world of machine learning and explore the applications of CNNs in image classification. I learned a lot about data preprocessing, model architecture, and evaluation metrics.
 
-Feel free to explore the code and datasets! If you have any questions or suggestions, please reach out.
+Feel free to explore the code and datasets! If you have any questions or suggestions, please don't hesitate to reach out.
 
 ## Acknowledgements
 
